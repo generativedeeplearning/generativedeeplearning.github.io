@@ -62,13 +62,7 @@
       <pubDate>Sat, 10 Feb 2018 11:52:18 +0700</pubDate>
       
       <guid>https://generativedeeplearning.github.io/papers/disentanglement/</guid>
-      <description>List noticeable papers, code and datasets on the topic of Disentanglement Learning
-Disentanglement Learning [1] InfoGAN- Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets, NIPS16. paper, code
-[2] BetaVAE-LEARNING BASIC VISUAL CONCEPTS WITH A CONSTRAINED VARIATIONAL FRAMEWORK, ICLR17. paper, code
-[3] Disentangling by Factorising, ICML18. paper.
-[4] Isolating Sources of Disentanglement in VAEs, NIPS18. paper, code
-[5] Information Constraints on Auto-Encoding Variational Bayes, NIPS18. paper.
-Dataset [1] dSprites - Disentanglement testing Sprites dataset.</description>
+      <description>List noticeable papers, code and datasets on the topic of &lt;em&gt;&lt;em&gt;Disentanglement Learning&lt;/em&gt;&lt;/em&gt;</description>
     </item>
     
     <item>
@@ -77,10 +71,7 @@ Dataset [1] dSprites - Disentanglement testing Sprites dataset.</description>
       <pubDate>Sat, 10 Feb 2018 11:52:18 +0700</pubDate>
       
       <guid>https://generativedeeplearning.github.io/papers/gans/</guid>
-      <description>List noticeable papers, code and datasets on the topic of Generative Adversarial Networks
-Generative Adversarial Networks [1] Original Generative Adversarial Networks from Ian Goodfellow, NIPS14. paper.
-[2] Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR16. paper, code, tutorial from Tensorflow.
-Dataset [1] dSprites - Disentanglement testing Sprites dataset. code</description>
+      <description>List noticeable papers, code and datasets on the topic of &lt;em&gt;&lt;em&gt;Generative Adversarial Networks&lt;/em&gt;&lt;/em&gt;</description>
     </item>
     
     <item>
