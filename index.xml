@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Generative Deeplearning</title>
+    <link>https://generativedeeplearning.github.io/</link>
+    <description>Recent content in Home on Generative Deeplearning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate>
+    
+	<atom:link href="https://generativedeeplearning.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GAN Tutorials</title>
+      <link>https://generativedeeplearning.github.io/tutorials/tut_gan/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://generativedeeplearning.github.io/tutorials/tut_gan/</guid>
+      <description>We summarize good tutorials about Generative Adversarial Network (GAN)</description>
+    </item>
+    
+    <item>
+      <title>GAN Workshops</title>
+      <link>https://generativedeeplearning.github.io/workshops/ws_gan/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://generativedeeplearning.github.io/workshops/ws_gan/</guid>
+      <description>Workshop about GANs</description>
+    </item>
+    
+    <item>
+      <title>Generative Models Tutorials</title>
+      <link>https://generativedeeplearning.github.io/tutorials/tut_deep_generative_models/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://generativedeeplearning.github.io/tutorials/tut_deep_generative_models/</guid>
+      <description>Tutorials on a general topic of Generative Models</description>
+    </item>
+    
+    <item>
+      <title>Representation Learning Tutorials</title>
+      <link>https://generativedeeplearning.github.io/tutorials/tut_repre_learning/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://generativedeeplearning.github.io/tutorials/tut_repre_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representation Learning Workshops</title>
+      <link>https://generativedeeplearning.github.io/workshops/ws_repre_learning/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://generativedeeplearning.github.io/workshops/ws_repre_learning/</guid>
+      <description>Workshops about Representation Learning</description>
+    </item>
+    
+    <item>
+      <title>Disentanglement Learning</title>
+      <link>https://generativedeeplearning.github.io/papers/disentanglement/</link>
+      <pubDate>Sat, 10 Feb 2018 11:52:18 +0700</pubDate>
+      
+      <guid>https://generativedeeplearning.github.io/papers/disentanglement/</guid>
+      <description>List noticeable papers, code and datasets on the topic of Disentanglement Learning
+Disentanglement Learning [1] InfoGAN- Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets, NIPS16. paper, code
+[2] BetaVAE-LEARNING BASIC VISUAL CONCEPTS WITH A CONSTRAINED VARIATIONAL FRAMEWORK, ICLR17. paper, code
+[3] Disentangling by Factorising, ICML18. paper.
+[4] Isolating Sources of Disentanglement in VAEs, NIPS18. paper, code
+[5] Information Constraints on Auto-Encoding Variational Bayes, NIPS18. paper.
+Dataset [1] dSprites - Disentanglement testing Sprites dataset.</description>
+    </item>
+    
+    <item>
+      <title>Generative Adversarial Networks</title>
+      <link>https://generativedeeplearning.github.io/papers/gans/</link>
+      <pubDate>Sat, 10 Feb 2018 11:52:18 +0700</pubDate>
+      
+      <guid>https://generativedeeplearning.github.io/papers/gans/</guid>
+      <description>List noticeable papers, code and datasets on the topic of Generative Adversarial Networks
+Generative Adversarial Networks [1] Original Generative Adversarial Networks from Ian Goodfellow, NIPS14. paper.
+[2] Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR16. paper, code, tutorial from Tensorflow.
+Dataset [1] dSprites - Disentanglement testing Sprites dataset. code</description>
+    </item>
+    
+    <item>
+      <title>Useful Sources</title>
+      <link>https://generativedeeplearning.github.io/papers/useful_sources/</link>
+      <pubDate>Sat, 10 Feb 2018 11:52:18 +0700</pubDate>
+      
+      <guid>https://generativedeeplearning.github.io/papers/useful_sources/</guid>
+      <description>This is a list of interesting sources collected by us</description>
+    </item>
+    
+  </channel>
+</rss>
